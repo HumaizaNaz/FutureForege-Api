@@ -1,5 +1,5 @@
 import React from 'react'
-import Contact from '../../components/contact'
+import Contact from '../../components/Contact'
 import Aboutsection1 from '../../components/Aboutsection1'
 import Aboutsection3 from '../../components/Aboutsection3'
 import Aboutsection2 from '../../components/Aboutsection2'

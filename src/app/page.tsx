@@ -81,7 +81,7 @@ import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
 import React from "react";
 import PopularArticles from "../components/PopularArticles";
-
+import Contact from "../components/Contact"
 const Home = () => {
   return (
     <div>
@@ -91,7 +91,7 @@ const Home = () => {
       <PopularArticles />
 
       <Articles />
-     
+     <Contact/>
     </div>
   );
 };
